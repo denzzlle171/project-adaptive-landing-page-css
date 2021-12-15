@@ -1,0 +1,23 @@
+.action-button {
+  height: 48px;
+  width: 160px;
+  font-size: 18px;
+  background-color: $color-color-blue-button;
+  color: $color-text-white;
+  font-weight: 700;
+  border-radius: 2px;
+  border: none;
+  cursor: pointer;
+}
+
+.hide_desktop {
+  @include for-large-up {
+    display: none;
+  }
+}
+
+.hide_mobile {
+  @include for-large-down {
+    display: none;
+  }
+}

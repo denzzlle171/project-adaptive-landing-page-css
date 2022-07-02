@@ -1,6 +1,6 @@
 # Layout Responsive Landing Page
 
-### [Site link](https://gromcode.github.io/layout-sample-project/)
+### [Site link](https://denzzlle171.github.io/project-adaptive-landing-page-css/)
 
 Layout supports mobile (up-to-320) and desktop (up-to-1400) versions
 
